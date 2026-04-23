@@ -1,0 +1,31 @@
+{
+    "students": {
+        "user_ario6d": {
+            "password": "Wx2pKPvk",
+            "status": "pending"
+        },
+        "user_8h0s9o": {
+            "password": "lgFxULgO",
+            "profile": "E:/(GROUP 7 SYSTEM MANG TOMAS)/V2/Group 7 System MangTomas/logo.png"
+        },
+        "user_ghgdk3": {
+            "password": "HojTJaS6"
+        },
+        "user_1esucx": {
+            "password": "0xSf90JI"
+        },
+        "user_haia7z": {
+            "password": "tVRSN69l"
+        },
+        "justine": {
+            "password": "1234"
+        },
+        "Justine Louise": {
+            "password": "1234"
+        },
+        "justine calderon": {
+            "password": "1234"
+        }
+    },
+    "pending": {}
+}

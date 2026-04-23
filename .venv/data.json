@@ -1,0 +1,260 @@
+{
+    "announcements": [
+        {
+            "message": "hehe",
+            "time": "2026-04-07 11:13",
+            "likes": [
+                null,
+                "student",
+                "user_8h0s9o",
+                "user_ghgdk3",
+                "justine",
+                "Justine Louise"
+            ],
+            "comments": [
+                "None: ehh",
+                "student: HAAHAHAHAHA",
+                "None: wow",
+                "user_8h0s9o: okay po papi",
+                "user_8h0s9o: eh",
+                "user_8h0s9o: ehh"
+            ],
+            "image": null,
+            "user": "user"
+        },
+        {
+            "message": "hoy",
+            "time": "2026-04-14 11:01",
+            "likes": [
+                null,
+                "student",
+                "user_8h0s9o"
+            ],
+            "comments": [
+                "user_8h0s9o: okay"
+            ],
+            "image": null,
+            "user": "user"
+        },
+        {
+            "message": "234",
+            "time": "2026-04-14 11:04",
+            "image": "C:/Users/Gamer One/Pictures/Screenshots/Screenshot 2026-04-07 103627.png",
+            "likes": [
+                "student"
+            ],
+            "comments": [
+                "student: wowww",
+                "user_8h0s9o: 5, 67777777777777777"
+            ],
+            "user": "user"
+        },
+        {
+            "message": "walang kwenta",
+            "time": "2026-04-14 11:08",
+            "image": "C:/Users/Gamer One/Pictures/Screenshots/Screenshot 2026-04-07 100550.png",
+            "comments": [
+                "None: aff",
+                "None: ehhhhh",
+                "None: ehh",
+                "student: wow",
+                "student: wow",
+                "student: eh",
+                "None: ehh"
+            ],
+            "likes": [],
+            "user": "user"
+        },
+        {
+            "user": "admin",
+            "message": "",
+            "image": "C:/Users/Gamer One/Pictures/Screenshots/Screenshot 2026-04-07 101627.png",
+            "time": "2026-04-14 12:05",
+            "likes": [],
+            "comments": []
+        },
+        {
+            "user": "admin",
+            "message": "e",
+            "image": "C:/Users/Gamer One/Pictures/Screenshots/Screenshot 2026-04-07 101627.png",
+            "time": "2026-04-14 12:06",
+            "likes": [],
+            "comments": []
+        },
+        {
+            "user": "admin",
+            "message": "e",
+            "image": null,
+            "time": "2026-04-14 12:06",
+            "likes": [],
+            "comments": []
+        },
+        {
+            "user": "admin",
+            "message": "announcement",
+            "image": "C:/Users/Gamer One/Pictures/Screenshots/Screenshot 2026-04-14 121938.png",
+            "time": "2026-04-14 12:19",
+            "likes": [],
+            "comments": []
+        },
+        {
+            "user": "admin",
+            "message": "kekekkeke",
+            "image": "E:/Group 7 System MangTomas/cover.png",
+            "time": "2026-04-20 09:07",
+            "likes": [],
+            "comments": []
+        },
+        {
+            "user": "admin",
+            "message": "WALA",
+            "image": "E:/Group 7 System MangTomas/cover.png",
+            "time": "2026-04-20 09:19",
+            "likes": [
+                "admin"
+            ],
+            "comments": [
+                "admin: WAG MAGCOCOMMENT",
+                "user_8h0s9o: 1 like 1 prayer HAHAHAHA"
+            ]
+        },
+        {
+            "user": "admin",
+            "message": "3",
+            "image": "",
+            "likes": [],
+            "comments": []
+        },
+        {
+            "user": "admin",
+            "message": "he",
+            "image": "E:/(GROUP 7 SYSTEM MANG TOMAS)/V2/Group 7 System MangTomas/cover.png",
+            "likes": [],
+            "comments": []
+        },
+        {
+            "user": "admin",
+            "message": "wlang magiispam ng comments!!!!!!",
+            "image": null,
+            "likes": [],
+            "comments": []
+        }
+    ],
+    "news": [
+        {
+            "message": "walang pasok",
+            "time": "2026-04-07 11:13",
+            "likes": [
+                null,
+                "student"
+            ],
+            "comments": [],
+            "image": null,
+            "user": "user"
+        },
+        {
+            "message": "wala",
+            "time": "2026-04-07 09:43",
+            "comments": [
+                "None: putangina naman po"
+            ],
+            "likes": [
+                "student"
+            ],
+            "image": null,
+            "user": "user"
+        },
+        {
+            "user": "admin",
+            "message": "walang pasok po sa december 25",
+            "image": null,
+            "time": "2026-04-14 12:20",
+            "likes": [
+                "student"
+            ],
+            "comments": []
+        },
+        {
+            "user": "admin",
+            "message": "fe",
+            "image": null,
+            "likes": [],
+            "comments": []
+        },
+        {
+            "user": "admin",
+            "message": "ye",
+            "image": "E:/(GROUP 7 SYSTEM MANG TOMAS)/V2/Group 7 System MangTomas/logo.png",
+            "likes": [
+                "justine calderon"
+            ],
+            "comments": [
+                {
+                    "text": "justine calderon: great.",
+                    "replies": []
+                }
+            ]
+        },
+        {
+            "user": "admin",
+            "message": "huwwwwawww",
+            "image": "D:/e977cd1b-2d37-43a0-bf2e-dac403694d98.jpg",
+            "likes": [
+                "user_ario6d"
+            ],
+            "comments": [
+                {
+                    "text": "user_ghgdk3: sino nagcode jan?",
+                    "replies": [
+                        "user_ario6d: mamamoh",
+                        "user_1esucx: papansin amp",
+                        "user_ghgdk3: wow ang laka mong magsalita. ako nanga tong bumubuhat ganyan pa trato nyo saken",
+                        "justine: ge tandan nyo d ko na kayo ililibre sa comshop. "
+                    ]
+                }
+            ]
+        }
+    ],
+    "reminders": [
+        {
+            "message": "walang magdedecolor",
+            "time": "2026-04-07 11:14",
+            "likes": [
+                null,
+                "user_8h0s9o"
+            ],
+            "comments": [
+                {
+                    "text": "None: ehh",
+                    "replies": [
+                        "user_ghgdk3: ehh ehh kajan"
+                    ]
+                }
+            ],
+            "image": null,
+            "user": "user"
+        },
+        {
+            "user": "admin",
+            "message": "reminder need po magbayad ng exam",
+            "image": null,
+            "time": "2026-04-14 12:21",
+            "likes": [],
+            "comments": []
+        }
+    ],
+    "about": [
+        {
+            "user": "system",
+            "message": "Welcome to our school system.",
+            "likes": [
+                "user_8h0s9o"
+            ],
+            "comments": []
+        }
+    ],
+    "profiles": {
+        "student": "E:/Group 7 System MangTomas/logo.png",
+        "admin": "E:/Group 7 System MangTomas/logo.png"
+    }
+}
